@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23i2I2aALKM=",
+  "dgSpecHash": "zG8V7cgixAg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\st310-09\\Desktop\\MAD_TPRPO21\\MAD_TPRPO21\\MAD_TPRPO21.csproj",
+  "projectFilePath": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MAD_TPRPO21.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\st310-09\\.nuget\\packages\\materialdesigncolors\\5.4.0\\materialdesigncolors.5.4.0.nupkg.sha512",
     "C:\\Users\\st310-09\\.nuget\\packages\\materialdesignthemes\\5.4.0\\materialdesignthemes.5.4.0.nupkg.sha512",
