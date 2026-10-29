@@ -6,11 +6,37 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <ResourceDictionary>
+            
+            <SolidColorBrush x:Key="MaterialDesignTextBoxBorder" Color="white"/>
+            <SolidColorBrush x:Key="MaterialDesignPaper" Color="Transparent"/>
+            <Style TargetType="Grid">
+                <Setter Property="Background" Value="Black"/>
+                
+            </Style>
+            <Style TargetType="TextBlock">
+                <Setter Property="Foreground" Value="Gray"/>
+                <Setter Property="FontSize" Value="15"/>
+                
+            </Style>
+
+
+            <Style TargetType="TextBox">
+                <Setter Property="Foreground" Value="Gray"/>
+                <Setter Property="FontSize" Value="15"/>
+                
+
+            </Style>
+
+            <Style TargetType="ListView">
+                <Setter Property="Background" Value="Black"/>
+                <Setter Property="Foreground" Value="Gray"/>
+            </Style>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign2.Defaults.xaml"/>
                 <md:CustomColorTheme BaseTheme="Light"
-                                     PrimaryColor="Orange"
-                                     SecondaryColor="Gray"/>
+                         PrimaryColor="Orange"
+                         SecondaryColor="Gray"/>
+
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>

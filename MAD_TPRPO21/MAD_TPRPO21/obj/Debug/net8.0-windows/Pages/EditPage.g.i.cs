@@ -53,7 +53,7 @@ namespace MAD_TPRPO21.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MAD_TPRPO21;V1.0.0.0;component/pages/editpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MAD_TPRPO21;component/pages/editpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\EditPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

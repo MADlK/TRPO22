@@ -60,3 +60,8 @@ C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-window
 C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\ref\MAD_TPRPO21.dll
 C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\Pages\EditPage.g.cs
 C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\Pages\EditPage.baml
+C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\Pages\AddPage.g.cs
+C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\Pages\AddPage.baml
+C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\Pages\FullEditPage.g.cs
+C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\Pages\FullEditPage.baml
+C:\Users\st310-09\Desktop\TRPO22\MAD_TPRPO21\MAD_TPRPO21\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Net.Http;
+using System.Net.Http.Json;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -43,12 +44,31 @@ namespace MAD_TPRPO21.Pages
             InitializeComponent();
         }
 
-        public async void Create ()
+      
+
+        private async void Button_Click (object sender, RoutedEventArgs e)
         {
-            HttpResponseMessage response = await MainWindow.HC.PostAsync("api/v1/Dievice", device);
+            if(string.IsNullOrEmpty(device.Name) ||
+                device.Quantity == null ||
+                device.IsActive == null||
+                device.Price == null
+                )
+            {
+                MessageBox.Show("Все поля должны быть заполнены");
+                return;
+            }
+
+            HttpResponseMessage response = await MainWindow.HC.PostAsJsonAsync("api/v1/Dievice", device);
+            if (response.IsSuccessStatusCode)
+                MessageBox.Show("Успешно добавлен");
+            else
+                MessageBox.Show($"Не добавлен {response.StatusCode}");
+            NavigationService.GoBack();
         }
-        
 
-
+        private void Button_Click_1 (object sender, RoutedEventArgs e)
+        {
+            NavigationService.GoBack();
+        }
     }
 }

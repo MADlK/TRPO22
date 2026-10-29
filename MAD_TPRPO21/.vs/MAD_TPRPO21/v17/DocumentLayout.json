@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\devicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\devicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\devicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\devicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\fulleditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\fulleditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\devicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\devicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\devicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\devicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\conve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\conve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\pages\\fulleditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\pages\\fulleditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|c:\\users\\st310-09\\desktop\\trpo22\\mad_tprpo21\\mad_tprpo21\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D73CB-5154-4E09-ABA3-F42D96BAA16E}|MAD_TPRPO21\\MAD_TPRPO21.csproj|solutionrelative:mad_tprpo21\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 427,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
-              "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
-              "RelativeToolTip": "MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAxwCoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T06:41:00.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "AddPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\AddPage.xaml",
               "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\AddPage.xaml",
@@ -84,19 +83,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EditPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
-              "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
-              "RelativeToolTip": "MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T05:57:48.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "EditPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\EditPage.xaml",
               "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\EditPage.xaml",
@@ -109,32 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Device.cs",
-              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Device.cs",
-              "RelativeDocumentMoniker": "MAD_TPRPO21\\Device.cs",
-              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Device.cs",
-              "RelativeToolTip": "MAD_TPRPO21\\Device.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwD8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T03:59:21.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DevicePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\DevicePage.xaml.cs",
               "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\DevicePage.xaml.cs",
               "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\DevicePage.xaml.cs",
               "RelativeToolTip": "MAD_TPRPO21\\Pages\\DevicePage.xaml.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAqwFwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwKkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T03:48:34.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DevicePage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\DevicePage.xaml",
               "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\DevicePage.xaml",
@@ -143,6 +116,107 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-21T03:46:50.423Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml",
+              "RelativeToolTip": "MAD_TPRPO21\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T03:30:37.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FullEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\FullEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\FullEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\FullEditPage.xaml.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\Pages\\FullEditPage.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T04:43:44.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T03:30:34.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\Pages\\AddPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T06:41:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\FullEditPage.xaml",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\FullEditPage.xaml",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\FullEditPage.xaml",
+              "RelativeToolTip": "MAD_TPRPO21\\Pages\\FullEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T04:42:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Device.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\Device.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Device.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\Device.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T03:59:21.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\Pages\\EditPage.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T05:57:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\App.xaml.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T03:35:27.657Z"
             },
             {
               "$type": "Document",
@@ -158,39 +232,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MAD_TPRPO21\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\App.xaml.cs",
-              "RelativeToolTip": "MAD_TPRPO21\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T03:35:27.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MAD_TPRPO21\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml",
-              "RelativeToolTip": "MAD_TPRPO21\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-21T03:30:37.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MAD_TPRPO21\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MAD_TPRPO21\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Title": "Conve.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Conve.cs",
+              "RelativeDocumentMoniker": "MAD_TPRPO21\\Conve.cs",
+              "ToolTip": "C:\\Users\\st310-09\\Desktop\\TRPO22\\MAD_TPRPO21\\MAD_TPRPO21\\Conve.cs",
+              "RelativeToolTip": "MAD_TPRPO21\\Conve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T03:30:34.741Z",
+              "WhenOpened": "2026-10-29T05:34:58.889Z",
               "EditorCaption": ""
             }
           ]

@@ -145,7 +145,7 @@ namespace MAD_TPRPO21.Pages
 
         private void Button_Click (object sender, RoutedEventArgs e)
         {
-            if(select == null)
+            if(select.Name == null)
             {
                 MessageBox.Show("Сначало нужно выбрать");
                 return;
@@ -155,7 +155,7 @@ namespace MAD_TPRPO21.Pages
 
         private async void Button_Click_1 (object sender, RoutedEventArgs e)
         {
-            if (select == null)
+            if (select.Name == null)
             {
                 MessageBox.Show("Сначало нужно выбрать");
                 return;
@@ -166,6 +166,23 @@ namespace MAD_TPRPO21.Pages
                 MessageBox.Show("Успешно удален");
             else
                 MessageBox.Show($"Не удален {response.StatusCode}");
+        }
+
+        private void Button_Click_2 (object sender, RoutedEventArgs e)
+        {
+            
+            NavigationService.Navigate(new AddPage());
+        }
+
+        private void Button_Click_3 (object sender, RoutedEventArgs e)
+        {
+            if(select == null|| select.Name == null)
+            {
+                MessageBox.Show("Сначало надо выбрать");
+                return;
+            }
+                
+            NavigationService.Navigate(new FullEditPage(select));
         }
     }
 }
